@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Josue_Ortiz_Perfil3_BTVDS_5",
+    "slug": "Josue_Ortiz_Perfil3_BTVDS_5",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logor.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splashJ.gif",
+      "resizeMode": "contain",
+      "backgroundColor": "#00A0FF"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
